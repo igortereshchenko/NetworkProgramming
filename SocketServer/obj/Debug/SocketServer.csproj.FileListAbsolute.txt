@@ -1,0 +1,6 @@
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Igor\Desktop\NetworkProgramming\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
