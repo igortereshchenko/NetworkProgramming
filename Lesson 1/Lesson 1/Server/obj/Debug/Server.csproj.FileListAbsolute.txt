@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Server.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Server.pdb
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.Server.resources
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\obj\Debug\Server.pdb
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Server.exe.config
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Server.exe
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Server.pdb
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.Server.resources
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.exe
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\obj\Debug\Server.pdb

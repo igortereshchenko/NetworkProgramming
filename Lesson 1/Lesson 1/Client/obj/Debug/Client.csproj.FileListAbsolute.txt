@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\bin\Debug\Client.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\bin\Debug\Client.exe
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\bin\Debug\Client.pdb
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.Client.resources
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.exe
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Client\obj\Debug\Client.pdb
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Client.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Client.exe
+c:\users\user\documents\visual studio 2015\Projects\Union Lessons\Server\bin\Debug\Client.pdb
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Client.exe.config
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.exe
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.pdb
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Client.exe
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Server\bin\Debug\Client.pdb
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.Client.resources
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Kelt\Documents\GitHub\Lessons\Lesson 1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\NetworkProgramming\Lesson 1\Lesson 1\Server\bin\Debug\Client.exe.config
+C:\Users\Igor\Desktop\NetworkProgramming\Lesson 1\Lesson 1\Client\obj\Debug\Client.exe
+C:\Users\Igor\Desktop\NetworkProgramming\Lesson 1\Lesson 1\Client\obj\Debug\Client.pdb

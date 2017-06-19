@@ -1,0 +1,5 @@
+C:\Users\Igor\Desktop\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.exe.config
+C:\Users\Igor\Desktop\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.exe
+C:\Users\Igor\Desktop\NetworkProgramming\NetworkProgramming\bin\Debug\NetworkProgramming.pdb
+C:\Users\Igor\Desktop\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.exe
+C:\Users\Igor\Desktop\NetworkProgramming\NetworkProgramming\obj\Debug\NetworkProgramming.pdb
