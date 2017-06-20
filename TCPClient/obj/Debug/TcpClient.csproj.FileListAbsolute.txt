@@ -1,0 +1,5 @@
+C:\Users\Igor\Desktop\NetworkProgramming\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\Igor\Desktop\NetworkProgramming\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Igor\Desktop\NetworkProgramming\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Igor\Desktop\NetworkProgramming\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\Igor\Desktop\NetworkProgramming\TcpClient\obj\Debug\TcpClient.pdb
