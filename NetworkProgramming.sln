@@ -15,6 +15,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientConsole", "TCPClie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerConsole", "TCPServerConsole\TCPServerConsole.csproj", "{B16254F0-A592-4AD9-A23D-4C5F3939B6F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPChatServer", "TCPChatServer\TCPChatServer.csproj", "{1B5A7791-C850-4B79-A1F5-75FF0F840FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPChatClient", "TCPChatClient\TCPChatClient.csproj", "{71498636-6563-4E52-B214-F7E5822C13CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClient", "UDPClient\UDPClient.csproj", "{08155C6E-200C-47E2-89FC-A2664E7D4AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMulticastClient", "UDPMulticastClient\UDPMulticastClient.csproj", "{DDD96EAA-2E40-4FF9-9F18-E1BA317D65D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPChat", "UDPChat\UDPChat.csproj", "{57ACF280-FC26-44F6-9E88-B9B028F60294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +59,26 @@ Global
 		{B16254F0-A592-4AD9-A23D-4C5F3939B6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B16254F0-A592-4AD9-A23D-4C5F3939B6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B16254F0-A592-4AD9-A23D-4C5F3939B6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5A7791-C850-4B79-A1F5-75FF0F840FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5A7791-C850-4B79-A1F5-75FF0F840FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5A7791-C850-4B79-A1F5-75FF0F840FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5A7791-C850-4B79-A1F5-75FF0F840FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71498636-6563-4E52-B214-F7E5822C13CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71498636-6563-4E52-B214-F7E5822C13CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71498636-6563-4E52-B214-F7E5822C13CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71498636-6563-4E52-B214-F7E5822C13CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08155C6E-200C-47E2-89FC-A2664E7D4AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08155C6E-200C-47E2-89FC-A2664E7D4AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08155C6E-200C-47E2-89FC-A2664E7D4AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08155C6E-200C-47E2-89FC-A2664E7D4AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD96EAA-2E40-4FF9-9F18-E1BA317D65D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD96EAA-2E40-4FF9-9F18-E1BA317D65D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD96EAA-2E40-4FF9-9F18-E1BA317D65D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD96EAA-2E40-4FF9-9F18-E1BA317D65D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ACF280-FC26-44F6-9E88-B9B028F60294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ACF280-FC26-44F6-9E88-B9B028F60294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ACF280-FC26-44F6-9E88-B9B028F60294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ACF280-FC26-44F6-9E88-B9B028F60294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

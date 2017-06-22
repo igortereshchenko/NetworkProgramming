@@ -1,0 +1,5 @@
+C:\Users\Igor\Desktop\NetworkProgramming\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\Igor\Desktop\NetworkProgramming\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\Igor\Desktop\NetworkProgramming\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\Igor\Desktop\NetworkProgramming\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\Igor\Desktop\NetworkProgramming\TCPChatServer\obj\Debug\TCPChatServer.pdb
