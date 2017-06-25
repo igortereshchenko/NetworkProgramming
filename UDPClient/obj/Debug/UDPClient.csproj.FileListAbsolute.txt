@@ -1,5 +1,0 @@
-C:\Users\Igor\Desktop\NetworkProgramming\UDPClient\bin\Debug\UDPClient.exe.config
-C:\Users\Igor\Desktop\NetworkProgramming\UDPClient\bin\Debug\UDPClient.exe
-C:\Users\Igor\Desktop\NetworkProgramming\UDPClient\bin\Debug\UDPClient.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\UDPClient\obj\Debug\UDPClient.exe
-C:\Users\Igor\Desktop\NetworkProgramming\UDPClient\obj\Debug\UDPClient.pdb

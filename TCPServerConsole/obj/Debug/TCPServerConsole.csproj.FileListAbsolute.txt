@@ -1,5 +1,0 @@
-C:\Users\Igor\Desktop\NetworkProgramming\TCPServerConsole\bin\Debug\TCPServerConsole.exe.config
-C:\Users\Igor\Desktop\NetworkProgramming\TCPServerConsole\bin\Debug\TCPServerConsole.exe
-C:\Users\Igor\Desktop\NetworkProgramming\TCPServerConsole\bin\Debug\TCPServerConsole.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\TCPServerConsole\obj\Debug\TCPServerConsole.exe
-C:\Users\Igor\Desktop\NetworkProgramming\TCPServerConsole\obj\Debug\TCPServerConsole.pdb

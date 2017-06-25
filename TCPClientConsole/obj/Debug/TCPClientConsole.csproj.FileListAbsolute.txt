@@ -1,5 +1,0 @@
-C:\Users\Igor\Desktop\NetworkProgramming\TCPClientConsole\bin\Debug\TCPClientConsole.exe.config
-C:\Users\Igor\Desktop\NetworkProgramming\TCPClientConsole\bin\Debug\TCPClientConsole.exe
-C:\Users\Igor\Desktop\NetworkProgramming\TCPClientConsole\bin\Debug\TCPClientConsole.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\TCPClientConsole\obj\Debug\TCPClientConsole.exe
-C:\Users\Igor\Desktop\NetworkProgramming\TCPClientConsole\obj\Debug\TCPClientConsole.pdb

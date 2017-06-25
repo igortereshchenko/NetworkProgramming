@@ -1,6 +1,0 @@
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csprojResolveAssemblyReference.cache
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.exe
-C:\Users\Igor\Desktop\HTTPServer\HTTPServer\obj\Debug\HTTPServer.pdb

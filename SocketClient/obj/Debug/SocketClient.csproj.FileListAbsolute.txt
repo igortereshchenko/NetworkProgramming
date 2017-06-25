@@ -1,5 +1,0 @@
-C:\Users\Igor\Desktop\NetworkProgramming\SocketClient\bin\Debug\SocketClient.exe.config
-C:\Users\Igor\Desktop\NetworkProgramming\SocketClient\bin\Debug\SocketClient.exe
-C:\Users\Igor\Desktop\NetworkProgramming\SocketClient\bin\Debug\SocketClient.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\SocketClient\obj\Debug\SocketClient.exe
-C:\Users\Igor\Desktop\NetworkProgramming\SocketClient\obj\Debug\SocketClient.pdb
