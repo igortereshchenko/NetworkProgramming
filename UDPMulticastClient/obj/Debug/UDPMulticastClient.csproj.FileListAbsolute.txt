@@ -3,4 +3,3 @@ C:\Users\Igor\Desktop\NetworkProgramming\UDPMulticastClient\bin\Debug\UDPMultica
 C:\Users\Igor\Desktop\NetworkProgramming\UDPMulticastClient\bin\Debug\UDPMulticastClient.pdb
 C:\Users\Igor\Desktop\NetworkProgramming\UDPMulticastClient\obj\Debug\UDPMulticastClient.exe
 C:\Users\Igor\Desktop\NetworkProgramming\UDPMulticastClient\obj\Debug\UDPMulticastClient.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\UDPMulticastClient\obj\Debug\UDPMulticastClient.csprojResolveAssemblyReference.cache

@@ -1,7 +1,6 @@
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\bin\Debug\UDPChat.exe.config
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\bin\Debug\UDPChat.exe
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\bin\Debug\UDPChat.pdb
-C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\obj\Debug\UDPChat.csprojResolveAssemblyReference.cache
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\obj\Debug\UDPChat.Form1.resources
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\obj\Debug\UDPChat.Properties.Resources.resources
 C:\Users\Igor\Desktop\NetworkProgramming\UDPChat\obj\Debug\UDPChat.csproj.GenerateResource.Cache
