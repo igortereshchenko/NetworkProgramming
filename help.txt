@@ -1,0 +1,8 @@
+arp - data link
+tracert google.com
+
+netstat -an
+
+netsh interface ipv4 show joins
+
+arp -a
