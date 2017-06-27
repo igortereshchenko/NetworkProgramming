@@ -32,6 +32,8 @@ namespace NetworkStreamClient
                 message = reader.ReadLine();
                 Console.WriteLine("Answer: " + message);
 
+                Console.ReadKey();
+
                 reader.Close();
                 writer.Close();
                 stream.Close();
