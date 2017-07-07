@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListener", "HttpListene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpPostGet", "HttpPostGet\HttpPostGet.csproj", "{BBB82D03-2A2F-4D29-BBDC-1065B878098E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPClient", "FTPClient\FTPClient.csproj", "{E44EACB2-C668-4256-A082-E0684085BBA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{BBB82D03-2A2F-4D29-BBDC-1065B878098E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB82D03-2A2F-4D29-BBDC-1065B878098E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB82D03-2A2F-4D29-BBDC-1065B878098E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44EACB2-C668-4256-A082-E0684085BBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44EACB2-C668-4256-A082-E0684085BBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44EACB2-C668-4256-A082-E0684085BBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44EACB2-C668-4256-A082-E0684085BBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
